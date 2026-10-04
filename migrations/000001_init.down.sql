@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS analytics_events;
+DROP TABLE IF EXISTS favorites;
+DROP TABLE IF EXISTS watch_history;
+DROP TABLE IF EXISTS episodes;
+DROP TABLE IF EXISTS subscriptions;
+DROP TABLE IF EXISTS users;
